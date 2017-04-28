@@ -1,6 +1,6 @@
-markdown: kramdown
-title: 18F Content Guide
-description: How to plan, write, and manage content at 18F.
+
+title: City of Bloomington Content Guide
+description: How to plan, write, and manage content for City of Bloomington websites.
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -18,13 +18,13 @@ sass:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F Content Guild
-  url: https://18f.gsa.gov
+  name: City of Bloomington
+  url: https://bloomington.in.gov
 
 github:
-  organization: 18F
+  organization: City of Bloomington
   repository: content-guide
-  default_branch: 18f-pages
+  default_branch: City-of-Bloomington
 
 collections:
   pages:
@@ -142,11 +142,9 @@ navigation:
     internal: true
 
 repos:
-- name: 18F Content Guide
+- name: City of Bloomimington Content Guide
   description: Main repository
-  url: https://github.com/18F/content-guide
-
-google_analytics_ua: UA-48605964-19
+  url: https://github.com/City-of-Bloomington/content-guide
 
 
 # Configuration for jekyll_pages_api_search plugin gem.
