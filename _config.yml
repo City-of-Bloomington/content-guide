@@ -144,7 +144,7 @@ navigation:
 repos:
 - name: City of Bloomimington Content Guide
   description: Main repository
-  url: https://github.com/City-of-Bloomington/content-guide
+  url: https://city-of-bloomington.github.io/content-guide/
 
 
 # Configuration for jekyll_pages_api_search plugin gem.
